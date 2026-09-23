@@ -120,6 +120,15 @@ See [docs/developer-integration.md](./docs/developer-integration.md) and [exampl
 
 ---
 
+## Live Developer Platform
+
+ValueRoost includes a developer platform for marketplace and software integrations, including API documentation, SDK guidance, marketplace configuration, webhooks, prepared transactions, and a Base Sepolia sandbox workflow.
+
+**Developer Portal & Documentation:** [INSERT LIVE DOCS URL]
+
+The documentation in this repository provides a public technical overview. The live Developer Platform contains the current integration experience and developer-facing documentation.
+
+
 ## Documentation
 
 | Doc | Topic |
